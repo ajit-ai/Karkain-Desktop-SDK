@@ -1,0 +1,9 @@
+// Karkain Desktop SDK - window module.
+//
+// Initial implementation boundary for the first working product. The GUI
+// backend is not selected yet; this module holds the window-level boundary
+// only and does not pretend to own a GUI framework.
+
+func window_create() {
+    return "window-unavailable"
+}

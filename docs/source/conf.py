@@ -1,5 +1,5 @@
-# Karkain SDK documentation configuration.
-project = "Karkain X SDK"
+# Karkain Desktop SDK documentation configuration.
+project = "Karkain Desktop SDK"
 author = "Ajit Kumar"
 copyright = "2026, Ajit Kumar"
 release = "0.1.0"

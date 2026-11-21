@@ -1,0 +1,9 @@
+// Karkain Desktop SDK - focused tests.
+
+func window_boundary_state() {
+    return 0
+}
+
+func test_window_boundary_state() {
+    assert_eq(window_boundary_state(), 0)
+}

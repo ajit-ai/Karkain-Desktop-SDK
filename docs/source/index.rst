@@ -1,5 +1,5 @@
-Karkain X SDK
-=============
+Karkain Desktop SDK
+====================
 
 .. toctree::
    :maxdepth: 2
